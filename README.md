@@ -81,3 +81,4 @@ Aspiring Software Engineer | Full-Stack Learner 🚀
 
 # Output
 
+<img width="1093" height="760" alt="Image" src="https://github.com/user-attachments/assets/4e513942-9835-4c58-96e2-01336f4d3ec2" />
